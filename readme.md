@@ -23,26 +23,3 @@ I used this asset to create tiles that would allow me to create my game with the
 Mini First Person Controller by Simon Pasi: https://assetstore.unity.com/packages/tools/input-management/mini-first-person-controller-174710
 Standard Unity Asset Store EULA. "Copyright: You can use this asset in any project, even for a commercial game." - Simon Pasi
 To use this asset I have agreed to not resell, trade or claim ownership of any of the materials within. This also aligns with the Unity Assets Store terms of service.
-
-
-MIT License
-
-Copyright (c) [2022] [Michael Mark Shane Power]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
