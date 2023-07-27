@@ -236,7 +236,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &140589242
 Transform:
   m_ObjectHideFlags: 0
@@ -1542,8 +1542,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.9, y: -261.3}
-  m_SizeDelta: {x: 421.6, y: 180.7952}
+  m_AnchoredPosition: {x: 8.9, y: -261.3}
+  m_SizeDelta: {x: 483.61, y: 180.7952}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1497808792
 MonoBehaviour:
@@ -1583,7 +1583,10 @@ MonoBehaviour:
     Space - jump
 
     Use the
-    mouse is used to rotate the camera'
+    mouse is used to rotate the camera
+
+    Use the Left mouse button to progress
+    conversation'
 --- !u!222 &1497808793
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2111,7 +2114,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2065266580
 Transform:
   m_ObjectHideFlags: 0
